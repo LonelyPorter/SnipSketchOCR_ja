@@ -29,7 +29,7 @@ This will install PyTorch 11.3 with CUDA support and easyocr, plus other package
   * (more update soon...)
 
 ## Note
-It is not guranteed to recoginzed the text 100% correct!
+It is not guaranteed to recoginzed the text 100% correct!
 
 ## References
 [PyTorch](https://pytorch.org/)  
