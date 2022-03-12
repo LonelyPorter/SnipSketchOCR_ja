@@ -8,6 +8,7 @@ It will save the picture on the clipboard on disk and do the text recognition.
   * PyTorch
   * easyocr
   * PySimpleGUI (if GUI is wanted)
+  * (more on requirements.txt)
 
 
 ## Installation
@@ -25,11 +26,13 @@ This will install PyTorch 11.3 with CUDA support and easyocr, plus other package
   * The application will keep on running and wait for you take a screenshot. You can close it by hitting the close button or type in  
   `Ctrl + c`
 * GUI
-  * run on cmd : ```py ssocr.py```
+  * run on cmd : ```py ssocr.py``` or double click to launch on windows (under the folder where all the requirement packages are installed)
+  * Hit `Capture` to start the snipping tool and capture a picture for text recognition  
+    Hit `Copy` after "Capture" to copy the recognized text to clipboard
   * (more update soon...)
 
 ## Note
-It is not guaranteed to recoginzed the text 100% correct!
+It is not guaranteed to recognize the text 100% correct!
 
 ## References
 [PyTorch](https://pytorch.org/)  
