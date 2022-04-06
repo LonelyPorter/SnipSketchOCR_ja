@@ -1,4 +1,6 @@
-# SnipSketchOCR_ja
+# SnipSketchOCR_ja  
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=LonelyPorter/SnipSketchOCR_ja)  
+
 A text recognition tool (OCR) to capture text (Japanese) on screenshot taken by Snip & Sketch (Windows tool)
 It will save the picture on the clipboard on disk and do the text recognition.
 
