@@ -4,5 +4,6 @@ torchaudio===0.10.1+cu113
 easyocr
 opencv-python==4.5.4.60 # cv2.error: Unknown C++ exception from OpenCV code
 psutil # process management
+pysimplegui
 
 -f https://download.pytorch.org/whl/cu113/torch_stable.html
